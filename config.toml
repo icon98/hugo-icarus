@@ -1,13 +1,13 @@
-baseurl = "https://icon98.github.io/hugo-icarus/"
+baseurl = "https://hax.best/"
 languageCode = "en-us"
 publishDir = "docs"
-title = "Icarus"
+title = "HAX"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 # Define the number of posts per page
-paginate = 10
+paginate = 7
 footnotereturnlinkcontents = "↩"
 theme = "icarus"
 # Comment the themesDir option if you use this theme in production
@@ -19,15 +19,15 @@ theme = "icarus"
 
 [params]
     # Tell me who you are
-    author = "John Doe"
-    bio = "Blogger - Programmer - Gopher"
+    author = "NOOBZHAX"
+    bio = "Blogger "
     location = "Earth"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
     avatar = "css/images/avatar.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
-    gravatar = "you@example.com"
+    gravatar = "admin@noobzhax.eu.org"
     logo = "css/images/logo.png"
     disable_mathjax = false # set to true to disable MathJax
 
